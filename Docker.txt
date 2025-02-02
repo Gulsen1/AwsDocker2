@@ -1,2 +1,3 @@
 Bu benim yaptigim degisiklik Dockerda gorulsun, remotedan yaptim.
 hi
+Yaptigim degisiklik locale cek
